@@ -22,7 +22,7 @@ The objective of this project is to analyze pizza sales data using SQL in order 
 
 ## Schema
 
-![Database Schema](screenshots/schema.png)
+![Database Schema](Screenshots/schema.png)
 
 ## Key Insights
 
